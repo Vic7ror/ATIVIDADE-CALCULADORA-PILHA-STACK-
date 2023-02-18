@@ -1,2 +1,2 @@
 # ATIVIDADE: CALCULADORA - PILHA(STACK)
-Lenguage: PORT/BR: C#
+Lenguage: C#
